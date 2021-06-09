@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo Dynamic ListView</string>
+    <string name="btnAddColour">Add new colour</string>
+</resources>
